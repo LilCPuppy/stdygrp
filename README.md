@@ -1,2 +1,2 @@
 # stdygrp
-Will be the basis for the StdyGrp (SG) project.
+Will be the basis for the stdygrp (SG) project.
